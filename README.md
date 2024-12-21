@@ -1,6 +1,9 @@
 Deliverable Report
+
 Code:
+
 The provided code effectively incorporates the following functionalities:
+
 1.	Task Selection: Allows users to choose between five tasks:
 o	Text Generation.
 o	Text Summarization.
